@@ -1,0 +1,15 @@
+
+  a)	Ecrire la requête SQL permettant d’obtenir la quantité vendue et le nombre de ventes par référence d’article et catégorie.
+      Combien de lignes sont renvoyées par la requête ?
+
+SELECT ventes.REFERENCE, SUM(ventes.QTE), COUNT(ventes.REFERENCE) FROM `ventes` GROUP BY ventes.REFERENCE
+
+Il y a 5ligne renvoyé par la requête.
+
+  b)	Ecrire la requête SQL permettant d’obtenir le total TTC par mois pour l'année 2019.
+      Combien de lignes sont renvoyées par la requête ?
+      Quel est le mois dont les ventes sont le plus élevées ?
+
+      SELECT MONTH(ventes.DATEVENTE), SUM((ventes.TOTALTVA + articles.PRIXHT)*ventes.QTE) FROM `ventes`, `articles` GROUP BY MONTH(ventes.DATEVENTE)
+      Il y a 4 ligne renvoyé par la requête.
+      Le mois dont les ventes sont le plus élevés est celui de Février

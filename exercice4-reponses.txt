@@ -1,0 +1,19 @@
+a) A quoi sert fonction1 ?
+
+    Elle sert à générer un tableau contenant 20 nombres aléatoire compris entre 0 et 100
+
+  b) A quoi sert fonction3 ?
+
+    Elle sert à générer le code HTML d'un tableau dans une variable php en fonction d'une variable passé en paramètre
+    (la variable déterminera le nombre de ligne du tableau ainsi que les valeurs qu'il contiendra). Cette variable est
+    un tableau associatif ou la clé correspond à l'Indice du tableau et ou la valeur correspond à $param2;
+
+  c) A quoi sert fonction2 ?
+    Elle sert au sein d'un tableau, de comparer une valeur et celle qui la suit(dans l'ordre du tableau, voisin de droite).
+    Et dans le cas ou la première valeur (celle de gauche) et supérieur à la deuxième valeur (celle de droite). Ils échangent leur valeurs.
+    C'est à dire que la première valeur devient la deuxième et la deuxième le première.
+
+  d) Quel est le nom de cet algorithme ?
+    Cet Algorithme permet de trié dans l'ordre croissant les nombres d'un tableau.
+
+  e) Corriger le programme pour qu'il fonctionne pleinement.

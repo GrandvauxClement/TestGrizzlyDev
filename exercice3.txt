@@ -1,0 +1,19 @@
+ a) Vous avez rendez-vous chez un client pour livrer une application, votre train est annulé, vous devez rédiger un mail pour le prévenir et lui proposer un nouveau rendez-vous. Rédiger le mail.
+
+        Bonjour Mr NomDuClient,
+
+        Suite à une annulation de mon train, je suis dans le regret de vous prévenir que je ne pourrais être présent au rendez-vous prévue.
+        Je me tiens à votre disposition pour planifier un nouveau rendez-vous.
+        Excusez-moi de la gêne occasionnée.
+        Cordialement,
+            GRANDVAUX Clément
+
+b) Vous recevez un mail d'un client qui à priori a une difficulté pour se connecter à votre application depuis son téléphone portable. Il est en réunion et il a besoin de se connecter. Il vous demande de lui prêter assistance par mail. Rédiger le mail qui vous permettra d'être efficace dans cette assistance.
+
+    Bonjour Mr NomDuClient,
+
+    Pourriez-vous me communiqué votre identifiant de connexion sur l'application afin que je vous génère un nouveau mot de passe.
+    Si jamais le problème persiste je vous propose de faire un appel vidéo où vous me montriez le problème que vous rencontrez afin de résoudre ce problème le plus rapidement possible.
+    Dans l'attente de votre réponse,
+    Cordialement,
+        GRANDVAUX Clément
